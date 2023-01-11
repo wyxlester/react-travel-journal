@@ -1,3 +1,12 @@
+Micro project for me to practice writing React Code
+
+Key Features
+- Use props to pass objects and render data dynamically
+- Use .map() function to pass data dynamically
+- Basic CSS styling
+
+=======================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
